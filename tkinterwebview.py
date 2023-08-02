@@ -5,7 +5,7 @@ import webview
 tk = Tk()
   
 #  size of the window where we show our website
-tk.geometry("800x450")
+tk.geometry("550x550")
   
 # Open website
 webview.create_window('CHATGPT', 'https://chat.openai.com/')
