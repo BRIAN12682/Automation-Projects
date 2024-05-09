@@ -1,7 +1,7 @@
 import pygame
 
 pygame.init()
-screen = pygame.display.set_mode((300,400))
+screen = pygame.display.set_mode((400,400))
 status = False
 
 while status:
