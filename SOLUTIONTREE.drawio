@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T14:26:05.890Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="U1mZIBSV1fGsO5aUevWg" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T14:30:50.298Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Ub2KuGOi4DkV694DvBMv" version="24.4.0" type="github">
   <diagram name="Page-1" id="qbcw0_QGkUB2L4nBPmKO">
-    <mxGraphModel dx="1157" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2007" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,17 +13,23 @@
         <mxCell id="e39YhttfQh6g9qLsBfuA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e39YhttfQh6g9qLsBfuA-2" target="e39YhttfQh6g9qLsBfuA-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e39YhttfQh6g9qLsBfuA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e39YhttfQh6g9qLsBfuA-2" target="e39YhttfQh6g9qLsBfuA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e39YhttfQh6g9qLsBfuA-2" value="&lt;span id=&quot;docs-internal-guid-f4f1dec3-7fff-86c7-fe9e-d08dac1e3e18&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Enhanced Cybersecurity in Critical Infrastructure &lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="30" width="340" height="90" as="geometry" />
+          <mxGeometry x="-80" y="30" width="675" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="e39YhttfQh6g9qLsBfuA-7" value="" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="290" width="200" height="60" as="geometry" />
+        <mxCell id="e39YhttfQh6g9qLsBfuA-7" value="&lt;span id=&quot;docs-internal-guid-b18fc274-7fff-4afe-53f8-195ce8988570&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Regulatory Enhancements and Compliance Frameworks&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="e39YhttfQh6g9qLsBfuA-9" value="" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="280" width="210" height="60" as="geometry" />
+        <mxCell id="e39YhttfQh6g9qLsBfuA-9" value="&lt;span id=&quot;docs-internal-guid-cc9d6333-7fff-6a8c-3ab8-d3a8226ca76d&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Financial Support and Resource Allocation&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="280" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="e39YhttfQh6g9qLsBfuA-13" value="&lt;span id=&quot;docs-internal-guid-c67d08ce-7fff-69de-2ffb-74023b6b5d5c&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Cybersecurity Awareness and Education Initiatives&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="280" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e39YhttfQh6g9qLsBfuA-19" value="&lt;span id=&quot;docs-internal-guid-990a0c09-7fff-07dc-5c46-0e6442948d26&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Capacity Building and Talent Development&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="280" width="270" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
