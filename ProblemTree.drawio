@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T12:52:43.424Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tg_scYOVZw79ZBmCk7O5" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T13:02:14.366Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="WaSI0M6atG3q1v7O_GAo" version="24.4.0" type="github">
   <diagram name="Page-1" id="VkASsHpngTa2wYTxf0N8">
     <mxGraphModel dx="2007" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,6 +94,9 @@
         <mxCell id="DKDABqMm2oadwqxOEiDG-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DKDABqMm2oadwqxOEiDG-40" target="DKDABqMm2oadwqxOEiDG-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DKDABqMm2oadwqxOEiDG-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DKDABqMm2oadwqxOEiDG-40" target="DKDABqMm2oadwqxOEiDG-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DKDABqMm2oadwqxOEiDG-40" value="&lt;span id=&quot;docs-internal-guid-2bfeae69-7fff-b663-224b-63ef1fca7043&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Cyberattacks and Data Breaches&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="280" width="200" height="60" as="geometry" />
         </mxCell>
@@ -175,11 +178,32 @@
         <mxCell id="DKDABqMm2oadwqxOEiDG-77" value="Vulnerability to attacks" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="-170" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="DKDABqMm2oadwqxOEiDG-83" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="DKDABqMm2oadwqxOEiDG-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DKDABqMm2oadwqxOEiDG-83" target="DKDABqMm2oadwqxOEiDG-89">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKDABqMm2oadwqxOEiDG-85" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="DKDABqMm2oadwqxOEiDG-83" value="&lt;span id=&quot;docs-internal-guid-2c788f4b-7fff-ec87-ca0e-057ef6b1ffdd&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Compromise of Sensitive Data and Intellectual Property&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="130" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DKDABqMm2oadwqxOEiDG-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DKDABqMm2oadwqxOEiDG-85" target="DKDABqMm2oadwqxOEiDG-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DKDABqMm2oadwqxOEiDG-85" value="&lt;span id=&quot;docs-internal-guid-055782bd-7fff-8bb3-e95f-ad0b632ee939&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Increased Frequency of Cyberattacks&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="130" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DKDABqMm2oadwqxOEiDG-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DKDABqMm2oadwqxOEiDG-87" target="DKDABqMm2oadwqxOEiDG-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DKDABqMm2oadwqxOEiDG-87" value="&lt;span id=&quot;docs-internal-guid-da3bd860-7fff-bf9c-e176-c82a8eac65f9&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Disruption of Essential Services&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="130" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DKDABqMm2oadwqxOEiDG-89" value="&lt;span id=&quot;docs-internal-guid-61e2b18a-7fff-b6b7-522c-2bc9c6daa5b1&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Data breaches leading to exposure of confidential information and proprietary technologies.&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-150" width="120" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="DKDABqMm2oadwqxOEiDG-91" value="&lt;span id=&quot;docs-internal-guid-06c6e2e0-7fff-50e8-47db-0604f5d6e3b7&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Rise in cyberattacks targeting critical infrastructure systems, such as energy grids and transportation networks&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="-140" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DKDABqMm2oadwqxOEiDG-93" value="&lt;span id=&quot;docs-internal-guid-83e737dd-7fff-a4e4-c8e9-bb8586830532&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Cyber incidents causing disruptions in essential services, including electricity, water supply, and communication networks.&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="-150" width="120" height="185" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
