@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T14:34:26.638Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ifAaVZsvJEVOopFiNzs9" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T14:35:48.090Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="rhmH5__VgOB86v9WbMbB" version="24.4.0" type="github">
   <diagram name="Page-1" id="qbcw0_QGkUB2L4nBPmKO">
     <mxGraphModel dx="2007" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -40,6 +40,9 @@
         <mxCell id="e39YhttfQh6g9qLsBfuA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e39YhttfQh6g9qLsBfuA-21" target="e39YhttfQh6g9qLsBfuA-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e39YhttfQh6g9qLsBfuA-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e39YhttfQh6g9qLsBfuA-21" target="e39YhttfQh6g9qLsBfuA-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e39YhttfQh6g9qLsBfuA-21" value="&lt;span id=&quot;docs-internal-guid-485b95d7-7fff-4483-19b6-c63915ce63f2&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Invest in cybersecurity education and training programs&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-390" y="490" width="160" height="60" as="geometry" />
         </mxCell>
@@ -47,7 +50,10 @@
           <mxGeometry x="-180" y="490" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e39YhttfQh6g9qLsBfuA-25" value="&lt;span id=&quot;docs-internal-guid-861550bc-7fff-abbb-05d8-247e7f832565&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Implement a cybersecurity training program for critical infrastructure personnel.&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="630" width="120" height="140" as="geometry" />
+          <mxGeometry x="-480" y="630" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="e39YhttfQh6g9qLsBfuA-27" value="&lt;span id=&quot;docs-internal-guid-a274a397-7fff-2ead-f305-4d36a65ef558&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Collaborate with universities to develop specialized cybersecurity courses&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="630" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
