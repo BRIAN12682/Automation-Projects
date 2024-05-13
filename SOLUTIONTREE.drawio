@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T14:51:12.353Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="kmdROnCGdu7EoVR9RJwT" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T14:54:26.209Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bo1RpV8aLncOiNGa52pW" version="24.4.0" type="github">
   <diagram name="Page-1" id="qbcw0_QGkUB2L4nBPmKO">
     <mxGraphModel dx="2007" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -124,20 +124,23 @@
         <mxCell id="e39YhttfQh6g9qLsBfuA-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e39YhttfQh6g9qLsBfuA-49" target="e39YhttfQh6g9qLsBfuA-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e39YhttfQh6g9qLsBfuA-49" value="" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="e39YhttfQh6g9qLsBfuA-49" value="&lt;span id=&quot;docs-internal-guid-2f7bb394-7fff-3855-d8e7-b69b01903676&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Establish dedicated funding mechanisms for cybersecurity initiatives in LDCs.&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="450" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="e39YhttfQh6g9qLsBfuA-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e39YhttfQh6g9qLsBfuA-51" target="e39YhttfQh6g9qLsBfuA-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e39YhttfQh6g9qLsBfuA-51" value="" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="e39YhttfQh6g9qLsBfuA-51" value="&lt;span id=&quot;docs-internal-guid-90c6f7d4-7fff-41e3-8f56-fdc69a248659&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Facilitate public-private partnerships (PPPs) for additional funding and expertise&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="450" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="e39YhttfQh6g9qLsBfuA-53" value="" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="560" width="120" height="90" as="geometry" />
+        <mxCell id="e39YhttfQh6g9qLsBfuA-53" value="&lt;span id=&quot;docs-internal-guid-cb253c04-7fff-3789-d064-6e96a74ed2ee&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Conduct a feasibility study on PPP models for cybersecurity investment&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="640" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="e39YhttfQh6g9qLsBfuA-56" value="" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="560" width="120" height="90" as="geometry" />
+        <mxCell id="e39YhttfQh6g9qLsBfuA-56" value="&lt;span id=&quot;docs-internal-guid-68546e77-7fff-a527-8d31-925bb36ac889&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Pilot a cybersecurity fund with contributions from government and industry partners.&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="630" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="e39YhttfQh6g9qLsBfuA-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="e39YhttfQh6g9qLsBfuA-56" target="e39YhttfQh6g9qLsBfuA-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
