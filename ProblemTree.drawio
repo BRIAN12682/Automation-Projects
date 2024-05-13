@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T12:34:09.696Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="x_Savle2r3o4z8xuo9op" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T12:37:31.132Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="m9NV3H18ZFewDFMuTPZy" version="24.4.0" type="github">
   <diagram name="Page-1" id="VkASsHpngTa2wYTxf0N8">
     <mxGraphModel dx="2007" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DKDABqMm2oadwqxOEiDG-2" value="&lt;p style=&quot;line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;In-efficient Cybersecurity Measures&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="450" width="220" height="70" as="geometry" />
+          <mxGeometry x="150" y="450" width="400" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DKDABqMm2oadwqxOEiDG-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DKDABqMm2oadwqxOEiDG-3" target="DKDABqMm2oadwqxOEiDG-36">
           <mxGeometry relative="1" as="geometry" />
@@ -124,14 +124,14 @@
         <mxCell id="DKDABqMm2oadwqxOEiDG-52" value="&lt;span id=&quot;docs-internal-guid-87c4de51-7fff-062e-2f5e-cb9eb94a1eeb&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Impact on Citizen Trust and Confidence&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="60" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DKDABqMm2oadwqxOEiDG-54" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-77.5" y="-90" width="145" height="65" as="geometry" />
+        <mxCell id="DKDABqMm2oadwqxOEiDG-54" value="&lt;span id=&quot;docs-internal-guid-bc9ba040-7fff-d6c6-4797-310470494774&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Cyberattacks on critical infrastructure posing risks to public safety and well-being&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-77.5" y="-110" width="145" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="DKDABqMm2oadwqxOEiDG-56" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-95" width="160" height="75" as="geometry" />
+        <mxCell id="DKDABqMm2oadwqxOEiDG-56" value="&lt;span id=&quot;docs-internal-guid-402525ea-7fff-65b1-460d-19c9d69ebaf8&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Disruptions in healthcare services and emergency response systems due to cyber incidents&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-110" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DKDABqMm2oadwqxOEiDG-58" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="-90" width="130" height="70" as="geometry" />
+        <mxCell id="DKDABqMm2oadwqxOEiDG-58" value="&lt;span id=&quot;docs-internal-guid-f8052848-7fff-5a1f-2857-6a11873693bb&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Decreased trust and confidence in the reliability of essential services and infrastructure.&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="-110" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
