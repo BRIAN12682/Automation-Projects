@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T16:00:53.411Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="vU0ZJiLA9mOZFAhsNMuX" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T16:01:07.874Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="SYl3s-WzPNGZgpLA0ePt" version="24.4.4" type="github">
   <diagram name="Page-1" id="VkASsHpngTa2wYTxf0N8">
     <mxGraphModel dx="2335" dy="1908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DKDABqMm2oadwqxOEiDG-6" value="&lt;span id=&quot;docs-internal-guid-b5cd1bd6-7fff-cd30-41e5-c79b141ef74d&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Shortage of Skilled Cybersecurity Professionals&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;em style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, Roboto, SegoeUI, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Meiryo UI&amp;quot;, Meiryo, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; text-align: left; white-space-collapse: collapse; background-color: rgb(247, 247, 247);&quot;&gt;(World Economic Forum, 2024)&lt;/em&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="970" y="630" width="290" height="90" as="geometry" />
+          <mxGeometry x="1180" y="630" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DKDABqMm2oadwqxOEiDG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="DKDABqMm2oadwqxOEiDG-10" target="DKDABqMm2oadwqxOEiDG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
