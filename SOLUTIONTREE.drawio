@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T07:00:17.824Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YZWBcLMLhiAWojnxTmc0" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T07:08:12.600Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="aeu_R-j3FJcP-w40xfgw" version="24.4.4" type="github">
   <diagram name="Page-1" id="qbcw0_QGkUB2L4nBPmKO">
     <mxGraphModel dx="3185" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -152,10 +152,10 @@
           <mxGeometry x="-610" y="450" width="190" height="130" as="geometry" />
         </mxCell>
         <mxCell id="e39YhttfQh6g9qLsBfuA-53" value="&lt;span id=&quot;docs-internal-guid-cb253c04-7fff-3789-d064-6e96a74ed2ee&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Conduct a feasibility study on PPP models for cybersecurity investment&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-575" y="640" width="120" height="140" as="geometry" />
+          <mxGeometry x="-600" y="640" width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="e39YhttfQh6g9qLsBfuA-56" value="&lt;span id=&quot;docs-internal-guid-68546e77-7fff-a527-8d31-925bb36ac889&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Pilot a cybersecurity fund with contributions from government and industry partners.&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;gradientDirection=east;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-855" y="630" width="120" height="150" as="geometry" />
+          <mxGeometry x="-870" y="630" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="e39YhttfQh6g9qLsBfuA-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="e39YhttfQh6g9qLsBfuA-56" target="e39YhttfQh6g9qLsBfuA-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
