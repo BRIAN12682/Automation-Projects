@@ -1,26 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T12:37:36.957Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="44kCoc-XOBD2SuBuk7wl" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T12:38:49.129Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ajf-TjHE5tyPWrLgUYcq" version="24.4.7" type="github">
   <diagram name="Page-1" id="ofCjfKJO8BuFq5yXyWCo">
-    <mxGraphModel dx="828" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1380" dy="1902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ubxCL5xXY2yEDinQhzXY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ubxCL5xXY2yEDinQhzXY-1" target="ubxCL5xXY2yEDinQhzXY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ubxCL5xXY2yEDinQhzXY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ubxCL5xXY2yEDinQhzXY-1" target="ubxCL5xXY2yEDinQhzXY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ubxCL5xXY2yEDinQhzXY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ubxCL5xXY2yEDinQhzXY-1" target="ubxCL5xXY2yEDinQhzXY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ubxCL5xXY2yEDinQhzXY-1" value="&lt;span style=&quot;font-size: 17px;&quot; id=&quot;docs-internal-guid-d5546918-7fff-56a0-d6ca-5dcf170bf663&quot;&gt;&lt;p style=&quot;font-size: 17px; font-weight: 700; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; font-size: 17px;&quot;&gt;Cybersecurity Vulnerabilities in Critical Infrastructure within Low-Developing Countries in Africa.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px; font-weight: 700; line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; font-size: 17px;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; font-size: 17px;&quot;&gt;African Researchers Magazine. (2024, March 7)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve; font-size: 17px;&quot;&gt;)&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=center;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="220" y="180" width="520" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ubxCL5xXY2yEDinQhzXY-2" value="&lt;span id=&quot;docs-internal-guid-b1ecaa4f-7fff-11c7-dbd0-22590b0f3346&quot; style=&quot;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Limited Resources and Funding&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;span id=&quot;docs-internal-guid-ebc997b7-7fff-8e79-dcb2-c1bd8a740b65&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;(Ntoko, A., &amp;amp; Wanjiku, R. (2018))&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="120" y="420" width="320" height="100" as="geometry" />
+          <mxGeometry x="120" y="420" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ubxCL5xXY2yEDinQhzXY-4" value="&lt;span id=&quot;docs-internal-guid-3f9f2b22-7fff-f455-dcc7-1cabe4b695e3&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; font-size: 20px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Shortage of Skilled Cybersecurity Professionals&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 20px; white-space-collapse: preserve;&quot;&gt;Chetty, N., &amp;amp; Phahlamohlaka, J. (2017)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 20px; white-space-collapse: preserve;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;fontFamily=Times New Roman;align=center;" vertex="1" parent="1">
-          <mxGeometry x="520" y="420" width="320" height="100" as="geometry" />
+          <mxGeometry x="520" y="420" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ubxCL5xXY2yEDinQhzXY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ubxCL5xXY2yEDinQhzXY-1" target="ubxCL5xXY2yEDinQhzXY-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="390" as="sourcePoint" />
             <mxPoint x="450" y="550" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ubxCL5xXY2yEDinQhzXY-6" value="" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Times New Roman;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-40" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ubxCL5xXY2yEDinQhzXY-8" value="" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Times New Roman;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-40" width="280" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
