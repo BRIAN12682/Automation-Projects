@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Leaflet Map Test</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/>
+    <style>
+        #mapid { height: 500px; width: 100%; }
+    </style>
+</head>
+
+<body>
+<div id="mapid"></div>
+<div class="container">
+    <div class="row mt-4">
+        <div class="col-md-10 offset-md-1">
+            <div id="map" style="height: 400px;"></div>
+            {% if distance %}
+            <h3>Distance to Event</h3>
+            <p><strong>Distance:</strong> {{ distance }} kilometers</p>
+            {% endif %}
+        </div>
+    </div>
+</div>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script>
+var map = L.map('mapid').setView([{{ user_lat }}, {{ user_lng }}], 12);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+}).addTo(map);
+
+L.marker([{{ event_lat }}, {{ event_lng }}]).addTo(map)
+    .bindPopup("Upcoming Event Location").openPopup();
+
+L.polyline([
+    [{{ user_lat }}, {{ user_lng }}],
+    [{{ event_lat }}, {{ event_lng }}]
+], {color: 'green'}).addTo(map);
+
+</script>
+</body>
+
+</html>
