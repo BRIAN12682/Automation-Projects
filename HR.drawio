@@ -22,12 +22,6 @@
         <mxCell id="4" value="Director of Operations" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="8" y="410" width="220" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Director of Finance" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="276" y="400" width="198" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="6" value="Director of Human Resources" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="520" y="398" width="260" height="78" as="geometry" />
-        </mxCell>
         <mxCell id="7" value="Regional Managers" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="22" y="510" width="192" height="54" as="geometry" />
         </mxCell>
@@ -61,8 +55,14 @@
         <mxCell id="A1Uzxhxm5-m14l__Z3a2-25" value="Director of Finance" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="310" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A1Uzxhxm5-m14l__Z3a2-27" value="Director of Human Resources" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="A1Uzxhxm5-m14l__Z3a2-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A1Uzxhxm5-m14l__Z3a2-30" target="A1Uzxhxm5-m14l__Z3a2-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A1Uzxhxm5-m14l__Z3a2-27" value="Human Resource Officer" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A1Uzxhxm5-m14l__Z3a2-30" value="Office Administrator" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
