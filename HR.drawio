@@ -22,10 +22,10 @@
         <mxCell id="A1Uzxhxm5-m14l__Z3a2-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontStyle=1;shadow=1;fontSize=20;fontFamily=Times New Roman;textShadow=0;labelBorderColor=none;strokeWidth=3;" edge="1" parent="1" source="A1Uzxhxm5-m14l__Z3a2-36" target="3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Managing Director (MD)" style="strokeWidth=3;fontStyle=1;shadow=1;fontSize=20;fontFamily=Times New Roman;textShadow=0;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="3" value="Managing Director (MD)" style="strokeWidth=5;fontStyle=1;shadow=1;fontSize=20;fontFamily=Times New Roman;textShadow=0;labelBorderColor=none;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="-30" y="112" width="810" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="A1Uzxhxm5-m14l__Z3a2-17" value="Board of Directors" style="strokeWidth=3;fontStyle=1;shadow=1;fontSize=20;fontFamily=Times New Roman;textShadow=0;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="A1Uzxhxm5-m14l__Z3a2-17" value="Board of Directors" style="strokeWidth=5;fontStyle=1;shadow=1;fontSize=20;fontFamily=Times New Roman;textShadow=0;labelBorderColor=none;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="10" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A1Uzxhxm5-m14l__Z3a2-22" value="Accounts Assistant" style="strokeWidth=3;fontStyle=1;shadow=1;fontSize=20;fontFamily=Times New Roman;textShadow=0;labelBorderColor=none;" vertex="1" parent="1">
